@@ -4,4 +4,6 @@ I'm Szymon Kasperek, cybersecurity student at the Warsaw University of Technolog
 ## I'm learning and using:
 - Python
 - Java
+- Azure
+- C++
 - Spring Boot
