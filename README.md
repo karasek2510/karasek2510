@@ -5,6 +5,7 @@ My area of expertise is DFIR.
 ## I'm learning and using:
 - Python
 - Java
-- Azure
-- C++
-- Spring Boot
+- SentinelOne
+- Microsoft Defender for Endpoint
+- ELK
+- Plaso & Log2Timeline
